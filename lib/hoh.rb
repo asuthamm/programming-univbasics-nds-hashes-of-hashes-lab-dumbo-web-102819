@@ -62,7 +62,10 @@ def naming_system
         sub_category: {
           label: "Order",
           sub_category: {
-            label: 
+            label: "Family",
+            sub_category: {
+              label: ""
+            }
           }
         }
       }
