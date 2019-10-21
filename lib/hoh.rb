@@ -60,7 +60,10 @@ def naming_system
       sub_category: {
         label: "Class",
         sub_category: {
-          label: 
+          label: "Order",
+          sub_category: {
+            label: 
+          }
         }
       }
       
